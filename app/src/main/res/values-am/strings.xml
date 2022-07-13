@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የኢትዮፕያ ህገ-መንግስት</string>
+    <string name="item_Home">መግቢያ</string>
+    <string name="item_Language">ቋንቋ</string>
+    <string name="item_AffanOromo">Affan Oromo</string>
+    <string name="item_Amharic">አማርኛ</string>
+    <string name="item_English">English</string>
+    <string name="item_About">ስለአኛ</string>
+    <string name="item_Contact_Us">ያግኙን</string>
+    <string name="item_Search">ፈልግ</string>
+    <string name="item_Share">አጋራ</string>
+    <string name="item_Exit">መውጫ</string>
+
+    <string-array name="article_names">
+        <item>አንቀጽ 1</item>
+        <item>አንቀጽ 2</item>
+        <item>አንቀጽ 3</item>
+        <item>አንቀጽ 4</item>
+        <item>አንቀጽ 5</item>
+        <item>አንቀጽ 6</item>
+        <item>አንቀጽ 7</item>
+        <item>አንቀጽ 8</item>
+        <item>አንቀጽ 9</item>
+        <item>አንቀጽ 10</item>
+        <item>አንቀጽ 11</item>
+        <item>አንቀጽ 12</item>
+        <item>አንቀጽ 13</item>
+    </string-array>
+    <string-array name="article_description">
+        <item>የግዛቱ ስያሜ</item>
+        <item>የኢትዮጵያ ግዛት ስልጣን</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የግዛቱ ስያሜ</item>
+        <item>የኢትዮጵያ ግዛት ስልጣን</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የግዛቱ ስያሜ</item>
+        <item>የኢትዮጵያ ግዛት ስልጣን</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+        <item>የኢትዮጵያ ባንዲራ</item>
+    </string-array>
+    <string-array name="article_detail">
+        <item>This Constitution establishes a Federal and Democratic State structure. Accordingly, the Ethiopian state.shall be known as The Federal Democratic Republic of Ethiopia.</item>
+        <item>The territorial jurisdiction of Ethiopia shall comprise the territory of the members of the Federation and its boundaries shall be as determined by international agreements.</item>
+        <item>1. The Ethiopian flag shall consist of green at the top, yellow in the middle and red at the bottom, and shall have a national emblem at the centre. The three colours shall be set horizontally in equal dimension\n" +
+        "2. The national emblem on the flag shall reflect the hope of the Nations, Nationalities, Peoples as well as religious communities of Ethiopia to live together in equality and unity.\n" +
+        "3. Members of the Federation may have their respective flags and emblems and shall determine the details thereof through their respective legislatures.</item>
+        <item>The national anthem of Ethiopia, to be determined by law, shall reflect the ideals of the Constitution, the commitment of the Peoples of Ethiopia to live together in a democratic order and of their common destiny</item>
+        <item>1. All Ethiopian languages shall enjoy equal state recognition\n2. Amharic shall be the working language of the Federal Government.\n3. Members of the Federation may by law determine their respective working languages</item>
+        <item>1. Any person of either sex shall be an Ethiopian national where both or either parent is Ethiopian\n2. Foreign nationals may acquire Ethiopian nationality.\n3. Particulars relating to nationality shall be determined by law</item>
+        <item>Provisions of this Constitution set out in the masculine gender shall also apply to the feminine gender.</item>
+        <item>All sovereign power resides in the Nations, Nationalities and Peoples of Ethiopia.\n2. This Constitution is an expression of their sovereignty.3. Their sovereignty shall be expressed through their representatives elected in accordance with this Constitution and through their direct democratic participation.</item>
+        <item>1. The Constitution is the supreme law of the land. Any law customary practice or a decision of an organ of state or a public official which contravenes this Constitution shall be of no effect.\n2. All citizens, organs of state, political organizations, other associations as well as their officials have the duty to ensure observance of the Constitution and to obey it.\n3. It is prohibited to assume state power in any manner other than that provided under the Constitution.\n4. All international agreements ratified by Ethiopia are an integral part of the law of the land.</item>
+        <item>1. Human rights and freedoms, emanating from the nature of mankind, are inviolable and inalienable.\n2. Human and democratic rights of citizens and peoples shall be respected</item>
+        <item>1. State and religion are separate.\n2. There shall be no state religion.\n3. The state shall not interfere in religious matters and religion shall not interfere in state affairs.</item>
+        <item>1. The conduct of affairs of government shall be transparent.\n2. Any public official or an elected representative is accountable for any failure in official duties.\n3. In case of loss of confidence, the people may recall an elected representative. The particulars of recall shall be determined by law.</item>
+        <item>1. All Federal and State legislative, executive and judicial organs at all levels shall have the responsibility and duty to respect and enforce the provisions of this Chapter.\n" +
+        "2. The fundamental rights and freedoms specified in this Chapter shall be interpreted in a manner conforming to the principles of the Universal Declaration of Human Rights, International Covenants on Human Rights and international instruments adopted by Ethiopia.</item>
+    </string-array>
+
+</resources>

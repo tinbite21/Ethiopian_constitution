@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:icon="@drawable/icon_text_size"
+        android:id="@+id/item_text_size"
+        android:title="size"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/item_home"
+        android:title="@string/item_Home" />
+    <item
+        android:id="@+id/item_language"
+        android:title="@string/item_Language" >
+        <menu >
+            <item
+                android:id="@+id/item_affan_oromo"
+                android:title="@string/item_AffanOromo" />
+            <item
+                android:id="@+id/item_amharic"
+                android:title="@string/item_Amharic" />
+            <item
+                android:id="@+id/item_Enlgish"
+                android:title="@string/item_English" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item_about"
+        android:title="@string/item_About" />
+    <item
+        android:id="@+id/item_contact_us"
+        android:title="@string/item_Contact_Us" />
+    <item
+        android:id="@+id/item_exit"
+        android:title="@string/item_Exit" />
+</menu>
